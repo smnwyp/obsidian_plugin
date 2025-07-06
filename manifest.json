@@ -1,10 +1,10 @@
 {
-	"id": "hello-world-plugin",
-	"name": "Hello World Plugin",
+	"id": "document-chatbot-plugin",
+	"name": "Document Chatbot Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a simple hello world plugin for Obsidian.",
-	"author": "Your Name",
+	"description": "Chat with your documents using DeepSeek AI. Ask questions about the content of your active document.",
+	"author": "Chloe Su",
 	"authorUrl": "https://your-website.com",
 	"isDesktopOnly": false
 }
