@@ -1,0 +1,10 @@
+{
+	"id": "hello-world-plugin",
+	"name": "Hello World Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a simple hello world plugin for Obsidian.",
+	"author": "Your Name",
+	"authorUrl": "https://your-website.com",
+	"isDesktopOnly": false
+}
